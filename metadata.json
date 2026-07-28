@@ -1,0 +1,6 @@
+{
+  "name": "EYFI Campus Ambassador Reward Ladder",
+  "description": "Interactive, game-like Reward Ladder component for EYFI Campus Ambassador Program with milestone animations and reward unlocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

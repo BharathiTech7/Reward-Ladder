@@ -1,0 +1,58 @@
+import { LeaderboardUser } from '../types';
+
+export const leaderboardData: LeaderboardUser[] = [
+  {
+    id: '1',
+    name: 'Aarav Sharma',
+    college: 'IIT Bombay, Mumbai',
+    city: 'Mumbai',
+    avatar: 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80',
+    registrations: 242,
+    badge: 'Founding Legend 👑',
+  },
+  {
+    id: '2',
+    name: 'Ananya Verma',
+    college: 'BITS Pilani, Goa Campus',
+    city: 'Goa',
+    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80',
+    registrations: 215,
+    badge: 'Founding Legend 👑',
+  },
+  {
+    id: '3',
+    name: 'Rohan Kulkarni',
+    college: 'VIT Vellore',
+    city: 'Vellore',
+    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80',
+    registrations: 188,
+    badge: 'Internship Track 💼',
+  },
+  {
+    id: '4',
+    name: 'Priya Sundaram',
+    college: 'SRM Institute, Chennai',
+    city: 'Chennai',
+    avatar: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80',
+    registrations: 142,
+    badge: 'Internship Track 💼',
+  },
+  {
+    id: '5',
+    name: 'Devansh Roy',
+    college: 'Delhi Technological University (DTU)',
+    city: 'New Delhi',
+    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80',
+    registrations: 110,
+    badge: 'Internship Track 💼',
+  },
+  {
+    id: '6',
+    name: 'Sanya Gupta',
+    college: 'St. Xavier’s College, Kolkata',
+    city: 'Kolkata',
+    avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80',
+    registrations: 92,
+    badge: 'Mentorship Star 🎓',
+  },
+];
